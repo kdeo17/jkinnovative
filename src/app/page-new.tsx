@@ -1,4 +1,3 @@
-import Image from "next/image";
 import Link from "next/link";
 
 export default function Home() {
@@ -35,7 +34,7 @@ export default function Home() {
             </h1>
             <p className="text-xl text-slate-600 mb-8 max-w-3xl mx-auto">
               Transform your business operations with our cutting-edge technology solutions. 
-              From accounting systems to email hosting, we've got you covered.
+              From accounting systems to email hosting, we&apos;ve got you covered.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <button className="bg-blue-600 text-white px-8 py-4 rounded-lg hover:bg-blue-700 transition-all hover:scale-105 font-semibold">

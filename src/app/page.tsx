@@ -871,7 +871,7 @@ ${quoteFormData.name}`;
       <section id="contact" className="py-20 bg-gradient-to-r from-blue-600 to-purple-600">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-3xl lg:text-4xl font-bold text-white mb-4">
-            Let's Make it Happen
+            Let&apos;s Make it Happen
           </h2>
           <p className="text-xl text-blue-100 mb-8 max-w-2xl mx-auto">
             Ready to transform your business with our innovative IT solutions? Get in touch with us today.
@@ -974,7 +974,7 @@ ${quoteFormData.name}`;
             {/* Modal header */}
             <div className="mb-6">
               <h3 className="text-2xl font-bold text-gray-900 mb-2">Schedule Consultation</h3>
-              <p className="text-gray-600">Let's discuss how we can help transform your business with our IT solutions.</p>
+              <p className="text-gray-600">Let&apos;s discuss how we can help transform your business with our IT solutions.</p>
             </div>
             
             {/* Form */}
@@ -1082,7 +1082,7 @@ ${quoteFormData.name}`;
             {/* Modal header */}
             <div className="mb-6">
               <h3 className="text-2xl font-bold text-gray-900 mb-2">Request Quote</h3>
-              <p className="text-gray-600">Tell us about your project and we'll send you a detailed quote via email.</p>
+              <p className="text-gray-600">Tell us about your project and we&apos;ll send you a detailed quote via email.</p>
             </div>
             
             {/* Form */}

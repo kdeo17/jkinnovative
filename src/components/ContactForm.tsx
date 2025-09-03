@@ -34,7 +34,7 @@ export default function ContactForm() {
               Get In Touch
             </h2>
             <p className="text-xl text-slate-600 mb-8">
-              Ready to transform your business with our IT solutions? Let's discuss how we can help you achieve your goals.
+              Ready to transform your business with our IT solutions? Let&apos;s discuss how we can help you achieve your goals.
             </p>
             
             <div className="space-y-6">

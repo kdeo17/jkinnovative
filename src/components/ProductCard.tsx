@@ -1,5 +1,3 @@
-import Link from 'next/link';
-
 interface ProductCardProps {
   icon: string;
   title: string;
